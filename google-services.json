@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "556521054392",
+    "firebase_url": "https://ionfire-94e79.firebaseio.com",
+    "project_id": "ionfire-94e79",
+    "storage_bucket": "ionfire-94e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556521054392:android:6968d7de4958629e54944d",
+        "android_client_info": {
+          "package_name": "com.angularfirebase.ionfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556521054392-5fed6uqfhr0fpemi91rokus5scgk92gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCQhFsFBKNhni_sRdA57YoplvV2KeoMDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556521054392-5fed6uqfhr0fpemi91rokus5scgk92gr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556521054392-028r468go0uag2mbdcg8ks3a42rq0iam.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.angularfire.ionfire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

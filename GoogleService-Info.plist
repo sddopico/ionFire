@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>556521054392-028r468go0uag2mbdcg8ks3a42rq0iam.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.556521054392-028r468go0uag2mbdcg8ks3a42rq0iam</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb-suQv4Bvw3SnlUalzMPpOkDLPhLzNto</string>
+	<key>GCM_SENDER_ID</key>
+	<string>556521054392</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.angularfire.ionfire</string>
+	<key>PROJECT_ID</key>
+	<string>ionfire-94e79</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ionfire-94e79.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:556521054392:ios:263aa4de5b52777454944d</string>
+	<key>DATABASE_URL</key>
+	<string>https://ionfire-94e79.firebaseio.com</string>
+</dict>
+</plist>
